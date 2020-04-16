@@ -1,0 +1,47 @@
+@font-face {
+    font-family: 'Montserrat';
+    src: url('../fonts/Montserrat-Light.woff2') format('woff2'),
+        url('../fonts/Montserrat-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Beau';
+    src: url('../fonts/Beau-Regular.woff2') format('woff2'),
+        url('../fonts/Beau-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'SourceSansPro';
+    src: url('../fonts/SourceSansPro-Regular.woff2') format('woff2'),
+        url('../fonts/SourceSansPro-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Comfortaa';
+    src: url('../fonts/Comfortaa-Bold.woff2') format('woff2'),
+        url('../fonts/Comfortaa-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Comfortaa';
+    src: url('../fonts/Comfortaa-Light.woff2') format('woff2'),
+        url('../fonts/Comfortaa-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Comfortaa';
+    src: url('../fonts/Comfortaa.woff2') format('woff2'),
+        url('../fonts/Comfortaa.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
